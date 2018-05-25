@@ -1,1 +1,8 @@
 uwsgi
+ess_wsgi_entry
+flask
+numpy
+scipy
+theano
+pytz
+tzlocal
