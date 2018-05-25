@@ -5,3 +5,4 @@ scipy
 theano
 pytz
 tzlocal
+ess_wsgi_entry
